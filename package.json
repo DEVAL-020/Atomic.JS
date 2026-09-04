@@ -1,0 +1,17 @@
+{
+  "name": "atomic.js",
+  "version": "1.0.0",
+  "description": "Greatly Simple 2D Physics Engine",
+  "main": "server.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w",
+    "devserver": "webpack-dev-server"
+  },
+  "author": "Deval Patel",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.110.3",
+    "webpack-cli": "^7.2.3"
+  }
+}
